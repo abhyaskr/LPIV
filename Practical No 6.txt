@@ -1,3 +1,6 @@
+#Object detection using Transfer Learning of CNN
+#architectures 
+
 pip install --upgrade Tensorflow
 
 
